@@ -1,0 +1,19 @@
+
+[
+{
+  "name":"Gunjan",
+  "gender":"male",
+  "status":"active"
+ },
+
+  {
+  "name":"Suchitra",
+  "gender":"female",
+  "status":"inactive"
+ },
+  {
+  "name":"Nandita",
+  "gender":"female",
+  "status":"active"
+  }
+]
